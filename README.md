@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Tiago Martins Reis
+Matricula: 1593105
 
 ## Tela de inspeção com navegador
-
+![alt text](<Atividade semana 1 DIW.jpg>)
 
 ## Tela de projeto no Replit
-
+![alt text](<Atividade Repl semana 1 DIW .jpg>) 
